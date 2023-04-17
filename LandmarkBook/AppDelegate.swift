@@ -1,9 +1,7 @@
 //
 //  AppDelegate.swift
 //  LandmarkBook
-//
-//  Created by Tiga  on 17.04.2023.
-//
+
 
 import UIKit
 

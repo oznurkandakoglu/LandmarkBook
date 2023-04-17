@@ -16,6 +16,7 @@
 		0AB2623929ED277500BEB845 /* LandmarkBookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AB2623829ED277500BEB845 /* LandmarkBookTests.swift */; };
 		0AB2624329ED277500BEB845 /* LandmarkBookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AB2624229ED277500BEB845 /* LandmarkBookUITests.swift */; };
 		0AB2624529ED277500BEB845 /* LandmarkBookUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AB2624429ED277500BEB845 /* LandmarkBookUITestsLaunchTests.swift */; };
+		0AB2625229ED2E4B00BEB845 /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AB2625129ED2E4B00BEB845 /* DetailsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0AB2623E29ED277500BEB845 /* LandmarkBookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LandmarkBookUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AB2624229ED277500BEB845 /* LandmarkBookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkBookUITests.swift; sourceTree = "<group>"; };
 		0AB2624429ED277500BEB845 /* LandmarkBookUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkBookUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0AB2625129ED2E4B00BEB845 /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				0AB2622129ED277400BEB845 /* AppDelegate.swift */,
 				0AB2622329ED277400BEB845 /* SceneDelegate.swift */,
 				0AB2622529ED277400BEB845 /* ViewController.swift */,
+				0AB2625129ED2E4B00BEB845 /* DetailsVC.swift */,
 				0AB2622729ED277400BEB845 /* Main.storyboard */,
 				0AB2622A29ED277500BEB845 /* Assets.xcassets */,
 				0AB2622C29ED277500BEB845 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0AB2622629ED277400BEB845 /* ViewController.swift in Sources */,
+				0AB2625229ED2E4B00BEB845 /* DetailsVC.swift in Sources */,
 				0AB2622229ED277400BEB845 /* AppDelegate.swift in Sources */,
 				0AB2622429ED277400BEB845 /* SceneDelegate.swift in Sources */,
 			);
